@@ -1,5 +1,5 @@
 ---
-typora-root-url: img
+typora-root-url: ./
 ---
 
 # aaa
@@ -9,7 +9,6 @@ typora-root-url: img
 ### ccc
 
 - deji
-
 - jii
-
-  ![英语四级](/英语四级.png)
+- kkkkkkkkkkkkkkkkkkkkkkkkkkk
+- ![1626709143(1)](/img/1626709143(1).png)
